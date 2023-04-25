@@ -46,7 +46,7 @@ Das Bild links heißt „Fischerboote bei Saintes Maries de la Mer“ und wurde 
 <Answer correct>A</Answer>
 <Answer>B</Answer>
 <Result>
-Auch „echte“ Fotos von Essen sehen häufig unecht aus, da Farben verstärkt werden - echt und KI zu unterscheiden fällt da unter Umständen schwer. Diese KI-Aufnahme von „Stable Diffusion“ sieht aber nur auf den ersten Blick echt aus. Die geschnittenen Tranchen sind viel länger als das eigentliche Stück Fleisch. Und die Fleischmaserung sieht auch etwas unappetitlich aus, oder? Wem es bisher zu einfach war: Es wird nach und nach schwieriger, keine Sorge!
+Auch „echte“ Fotos von Essen sehen häufig unecht aus, da Farben verstärkt werden - echt und KI zu unterscheiden fällt da unter Umständen schwer. Diese KI-Aufnahme von „Stable Diffusion“ sieht aber nur auf den ersten Blick echt aus. Die geschnittenen Tranchen sind viel länger als das eigentliche Stück Fleisch. Und die Fleischmaserung sieht auch etwas unappetitlich aus, oder?
 </Result>
 </Quiz>
 
@@ -58,7 +58,7 @@ Auch „echte“ Fotos von Essen sehen häufig unecht aus, da Farben verstärkt 
 <Answer>C</Answer>
 <Answer>D</Answer>
 <Result>
-Die KI-Bilder wurden mit „Midjourney“ erstellt. Wir haben der KI das echte Bild unserer Moderatorin zur Verfügung gestellt, um auf Grundlage davon neue Bilder zu generieren. Die Aufnahme mit den verschränkten Armen enthält gleich mehrere deutliche Fehler, die für KI-Aufnahmen typisch sind. An einem Arm befinden sich zwei Hände. Der Arm ist außerdem nicht mit dem Rest des Körpers verbunden. Gruselig! Darüber hinaus stimmt die Zahl der Finger nicht und die Trinkgläser sind verzerrt. Bei den beiden anderen KI-Bildern scheint die Haut etwas zu sehr weichgezeichnet zu sein.
+Die KI-Bilder wurden mit „Midjourney“ erstellt. Wir haben der KI das echte Bild unserer Moderatorin zur Verfügung gestellt, um auf Grundlage davon neue Bilder zu generieren. Die Aufnahme mit den verschränkten Armen enthält gleich mehrere deutliche Fehler, die für KI-Aufnahmen typisch sind. An einem Arm befinden sich zwei Hände. Der Arm ist außerdem nicht mit dem Rest des Körpers verbunden. Gruselig! Darüber hinaus stimmt die Zahl der Finger nicht und die Trinkgläser sind verzerrt. Bei den beiden anderen KI-Bildern scheint die Haut etwas zu sehr weichgezeichnet zu sein. Wem es bisher zu einfach war: Es wird nach und nach schwieriger, keine Sorge!
 </Result>
 </Quiz>
 
