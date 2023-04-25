@@ -1,7 +1,7 @@
 ---
 title: "Deepfake-Quiz: Erkennen Sie alle KI-Bilder?"
 description: Mit Künstlicher Intelligenz (KI) lassen sich heute nahezu mühelos Texte, Fotos, Audios und Videos erstellen, die im Zweifel täuschend echt aussehen
-author: Niklas Rudolph, Patricia Ennenbach
+author: Jörg Schieb, Anna Zdrahal (Grafik)
 pub_date: "2023-04-25"
 heroImage: "Titelbild.jpg"
 heroAlt: "Tiger-Kollage"
