@@ -139,4 +139,33 @@ texts={{
 }}
 />
 
+### Mit diesen Diensten erstellen Sie selbst täuschen echte KI-Bilder
+
+Wer ein wenig experimentieren und selbst mithilfe von KI-Systemen Bilder erzeugen möchte, hat heute die Qual der Wahl. Da wären nicht nur die nativen Angebote wie Dall-E, Midjourney oder StableDiffusion, die eigentlichen KI-Systeme, auf denen viele zahlreiche andere Dienste aufbauen. Sondern eben auch die Drittanbieter: Online-Dienste, die (auch) die Möglichkeit anbieten, per Texteingaben Bilder zu generieren.
+
+Die Auswahl ist riesig: Anbieter wie Jasper Art, Runway, Neuroflash und viele andere - oder auch das bekannte Canva. Meist kann man kostenlos ein wenig experimentieren, muss für weitere und vor allem hoch aufgelöste Bilder ohne Wasserzeichen aber bezahlen. Bestimmte Apps bieten ähnliche Ergebnisse noch einfacher und bequemer. Das sind zum Beispiel Wonder, Wombo, Nightcafe oder viele andere. Vorsicht: Die Apps sind zwar einfach zu bedienen, verlangen allerdings mitunter hohe Gebühren.
+
+<Link href="https://www1.wdr.de/nachrichten/schieb-ki-deepfake-papst-100.html" title="Fake-Fotos vom Papst: Warum es immer mehr Deepfakes gibt"/>
+
+### „Prompts“ gut schreiben: So sagen Sie der KI exakt, was Sie von ihr wollen
+
+Wer mit Hilfe von KI z.B. ein Bild erzeugen will, muss einen sogenannten „Prompt“ definieren: Eine kurze - oder im Zweifel auch etwas längere - Beschreibung dessen, was die KI erstellen soll. Wer sich kurz fasst und lediglich sagt „Zwei Roboter spielen Beachvolleyball“ bekommt Vorschläge präsentiert. Soll das Ganz aber fotorealistisch aussehen - oder wie ein Cartoon oder aus einem Pixar-Movie? Dann muss das im Prompt angegeben werden. Auch sind Angaben zum Format (quadratisch, Hochformat, Querformat) möglich, zur Lichtsituation, zum Foto-Stil, zur verwendeten Kamera oder ob sich etwas im Vor- oder Hintergrund befinden soll.
+
+Sofern man es nicht dem Zufall überlassen möchte, was die KI generiert, sollte man den Prompt möglichst umfassend formulieren: Lieber ein paar mehr Angaben als zu wenige. KI-Systeme wie Midjourney, Dall-E oder Stable Diffusion können die Angaben mühelos „verstehen“ - und was sie nicht verstehen können, das wird ignoriert. Experten, die mit KI beeindruckende Bilder erzeugen, die auch von einem Profifotografen kommen könnten, schreiben Prompts auf, die 200 Wörter und mehr enthalten. Eine Wissenschaft für sich.
+
+### Das sind die Stärken und Schwächen der beliebtesten KIs zur Bilderstellung
+
+Lust bekommen? Es gibt reichlich Möglichkeiten, selbst ein wenig mit KI zu experimentieren - auch kostenlos.
+
+- [Midjourney](https://docs.midjourney.com/docs/quick-start): Liefert derzeit die besten Ergebnisse, ist für Anfänger allerdings möglicherweise etwas kompliziert, da man es über die Chat-App Discord bedienen muss. Die neueste Version 5 ist aktuell nur für zahlende Abonnenten zu haben.
+- [Bing Image Creator](https://www.bing.com/create): Gratis, leicht zu nutzen, unterstützt allerdings bislang nur englische Prompt-Eingaben, basiert auf DALL-E von OpenAI.
+- [DALL-E](https://labs.openai.com/): Der „große Bruder“ von OpenAI direkt bietet mehr Möglichkeiten als Bing Image Creator, ist allerdings in der Gratis-Version oft überlastet.
+- [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release): kostenlose Open-Source-Alternative zu DALL-E und Midjourney. Es gibt auch Apps/Anwendungen wie DiffusionBee, die direkt auf dem eigenen Desktop-PC laufen. Lässt sich [hier](https://huggingface.co/spaces/stabilityai/stable-diffusion) oder [hier](https://stablediffusionweb.com/#demo) ausprobieren. Versionen mit kostenpflichtigem Account und deutlich mehr Funktionen gibt es [hier](https://beta.dreamstudio.ai/generate) und [hier](https://playgroundai.com/).
+
+### Muss man Urheberrechte beachten, wenn man mit KI-Bilder erstellt?
+
+KI-Systeme wie “ChatGPT” oder “Midjourney” wurden mit Millionen von Texten und Bildern „gefüttert“ und so trainiert. Basierend darauf werden Texte und Bilder erstellt, denn die KI-Systeme ahmen das Gelernte nach. Es gibt Kreative, die das nicht in Ordnung finden – und auf Entschädigung pochen. Es sind Diskussionen entstanden, wie solche Entschädigungen in der Praxis aussehen könnten, etwa über Verwertungsgesellschaften. Wir stehen hier aber erst ganz am Anfang der Debatte.
+
+Eine andere Frage ist, wer die Rechte an den durch KI-Systemen erzeugten Inhalten hat. Laut Urheberrecht in Deutschland können nur natürliche Personen (Menschen) ein Urheberrecht in Anspruch nehmen. Demnach kann eine künstliche Intelligenz niemals Urheber der erstellten Inhalte sein und keine urheberrechtlich geschützten Werke erschaffen. Die Nutzungsrechte hingegen sind verhandelbar. Deshalb ist es wichtig, vor der Verwendung von durch KI erzeugten Inhalten die Nutzungsrechte zu prüfen. Bei “Midjourney” beispielsweise haben nur Nutzer mit bezahltem Account das Privileg, die erzeugten Inhalte auch kommerziell verwerten zu dürfen.
+
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
