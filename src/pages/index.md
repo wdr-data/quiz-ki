@@ -64,7 +64,7 @@ Die KI-Bilder wurden mit „Midjourney“ erstellt. Wir haben der KI das echte B
 
 <Quiz>
 <QuizImage src="Kollage Katzen (2).png.jpg" alt="Eine Kollage von Katzen."/>
-<Question>**Welche orangefarbene Katze fängt höchstens digitale Mäuse?**</Question>
+<Question>**Welche dieser Katzen fängt höchstens digitale Mäuse?**</Question>
 <Answer>A</Answer>
 <Answer>B</Answer>
 <Answer>C</Answer>
