@@ -1,14 +1,28 @@
 ### Bildrechte:
 
-- - Aufmacher-Bild: Richard Wagner und seine Freunde, Foto von Joseph Albert (picture alliance / akg-images)
+- Titelbild: Midjourney / Schieb
 
-- - Bild 2: Der Wuppertaler Opernintendant Berthold Schneider, fotografiert von Jens Grossmann
+- 1. picture alliance / Avalon
+
+- 2. Envato / Schieb
+
+- 3. Cc by-sa Thorsten Krienke Detmold, Germany
+
+- 4. Envato / Schieb
+
+- 5. Envato / Schieb
+
+- 6. Envato / Schieb
+
+- 7. Envato / Schieb
+
+- 8. Envato / Schieb
+
+- 9. Alle echten Fotos: picture alliance / Westend61
 
 ### Credits
 
-- **Redaktion:** Niklas Rudolph, Urs Zietan, Jutta Starke
+- **Redaktion:** Johannes Kolb
 - **Design:** Chrissi Holderbaum, Dilek Wache
-- **Programmierung:** Christine Gotthardt, Marcus Weiner, Jakob Holderbaum, Patricia Ennenbach
+- **Programmierung:** Jannes Höke, Christine Gotthardt, Marcus Weiner, Jakob Holderbaum, Patricia Ennenbach
 - **Accessability, UX:** Dilek Wache, Stephanie Juranek
-- **Datenrecherche:** Felix Buczek, Hannah Schmidt, Anne Glaser, Robert Haase, Greta Hey, Inge Akyaa, Katharina Riethmüller
-- **Besondere Unterstützung:** Dr. Olaf Roth, Musiktheater im Revier
