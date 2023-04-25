@@ -1,6 +1,6 @@
 ---
 title: "Deepfake-Quiz: Erkennen Sie alle KI-Bilder?"
-description: Mit Künstlicher Intelligenz (KI) lassen sich heute nahezu mühelos Texte, Fotos, Audios und Videos erstellen, die im Zweifel täuschend echt aussehen
+description: Mit Künstlicher Intelligenz (KI) lassen sich heute nahezu mühelos Texte, Fotos, Audios und Videos erstellen, die im Zweifel täuschend echt aussehen.
 author: Jörg Schieb, Anna Zdrahal (Grafik)
 pub_date: "2023-04-25"
 heroImage: "Titelbild.jpg"
@@ -74,8 +74,6 @@ Die mit der KI erzeugte Aufnahme sieht erstaunlich echt aus. Das seidige Fell, i
 </Result>
 </Quiz>
 
-<Link href="https://www1.wdr.de/nachrichten/ki-kuenstliche-intelligenz-regulierung-100.html" title="KI wird immer wichtiger - wie lässt sie sich kontrollieren?"/>
-
 <Quiz>
 <QuizImage src="Kollage Baby.png.jpg" alt="Eine Kollage von Babies."/>
 <Question>**Welches Baby-Foto hat die KI erstellt?**</Question>
@@ -85,8 +83,6 @@ Die mit der KI erzeugte Aufnahme sieht erstaunlich echt aus. Das seidige Fell, i
 Glatt wie ein Baby-…Gesicht: Kleine Kinder haben meist noch eine perfekte Haut. Ganz so glatt wie auf dem KI-Foto ist sie dann allerdings doch nicht. Beim Baby mit der Mütze lässt sich die KI zusätzlich anhand der etwas unnatürlichen Abgrenzung der Augen erkennen. Dafür muss man aber schon ganz genau hinschauen und im Zweifel eine Aufnahme auch mal vergrößern. Die Hand wiederum ist in der KI „Midjourney“ hervorragend gelungen, es gibt sogar Cookie-Krümel auf dem Ärmel.
 </Result>
 </Quiz>
-
-<Link href="https://www1.wdr.de/nachrichten/schumacher-ki-fake-interview-100.html" title="Nach Fake-Schumacher-Interview: Chefredakteurin muss gehen"/>
 
 <Quiz>
 <QuizImage src="Kollage Tiger.png.jpg" alt="Eine Kollage von Tigern."/>
@@ -114,7 +110,7 @@ Haben Sie einmal versucht, einer (im Zweifel wenig kooperativen) Katze eine Bril
 <Answer>A</Answer>
 <Answer correct>B</Answer>
 <Result>
-Landschaftsaufnahmen bekommen die guten KI-Systeme sehr überzeugend hin: Welche Aufnahme wirklich in den Alpen entstanden ist lässt sich hier nur noch raten.
+Landschaftsaufnahmen bekommen die guten KI-Systeme sehr überzeugend hin: Welche Aufnahme wirklich in den Alpen entstanden ist lässt sich hier fast nur noch raten. An der Bindung der Skier lässt sich aber erkennen, dass hier etwas nicht stimmt: Sie zeigt in die falsche Richtung.
 </Result>
 </Quiz>
 
@@ -139,7 +135,7 @@ texts={{
 }}
 />
 
-### Mit diesen Diensten erstellen Sie selbst täuschen echte KI-Bilder
+### Mit diesen Diensten erstellen Sie selbst täuschend echte KI-Bilder
 
 Wer ein wenig experimentieren und selbst mithilfe von KI-Systemen Bilder erzeugen möchte, hat heute die Qual der Wahl. Da wären nicht nur die nativen Angebote wie Dall-E, Midjourney oder StableDiffusion, die eigentlichen KI-Systeme, auf denen viele zahlreiche andere Dienste aufbauen. Sondern eben auch die Drittanbieter: Online-Dienste, die (auch) die Möglichkeit anbieten, per Texteingaben Bilder zu generieren.
 
@@ -158,14 +154,18 @@ Lust bekommen? Es gibt reichlich Möglichkeiten, selbst ein wenig mit KI zu expe
 
 ### „Prompts“ gut schreiben: So sagen Sie der KI exakt, was Sie von ihr wollen
 
-Wer mit Hilfe von KI z.B. ein Bild erzeugen will, muss einen sogenannten „Prompt“ definieren: Eine kurze - oder im Zweifel auch etwas längere - Beschreibung dessen, was die KI erstellen soll. Wer sich kurz fasst und lediglich sagt „Zwei Roboter spielen Beachvolleyball“ bekommt Vorschläge präsentiert. Soll das Ganz aber fotorealistisch aussehen - oder wie ein Cartoon oder aus einem Pixar-Movie? Dann muss das im Prompt angegeben werden. Auch sind Angaben zum Format (quadratisch, Hochformat, Querformat) möglich, zur Lichtsituation, zum Foto-Stil, zur verwendeten Kamera oder ob sich etwas im Vor- oder Hintergrund befinden soll.
+Wer mit Hilfe von KI z.B. ein Bild erzeugen will, muss einen sogenannten „Prompt“ definieren: Eine kurze - oder im Zweifel auch etwas längere - Beschreibung dessen, was die KI erstellen soll. Wer sich kurz fasst und lediglich sagt „Zwei Roboter spielen Beachvolleyball“ bekommt Vorschläge präsentiert. Soll das Ganze aber fotorealistisch aussehen - oder wie ein Cartoon oder aus einem Pixar-Movie? Dann muss das im Prompt angegeben werden. Auch sind Angaben zum Format (quadratisch, Hochformat, Querformat) möglich, zur Lichtsituation, zum Foto-Stil, zur verwendeten Kamera oder ob sich etwas im Vor- oder Hintergrund befinden soll.
 
 Sofern man es nicht dem Zufall überlassen möchte, was die KI generiert, sollte man den Prompt möglichst umfassend formulieren: Lieber ein paar mehr Angaben als zu wenige. KI-Systeme wie Midjourney, Dall-E oder Stable Diffusion können die Angaben mühelos „verstehen“ - und was sie nicht verstehen können, das wird ignoriert. Experten, die mit KI beeindruckende Bilder erzeugen, die auch von einem Profifotografen kommen könnten, schreiben Prompts auf, die 200 Wörter und mehr enthalten. Eine Wissenschaft für sich.
+
+<Link href="https://www1.wdr.de/nachrichten/ki-kuenstliche-intelligenz-regulierung-100.html" title="KI wird immer wichtiger - wie lässt sie sich kontrollieren?"/>
 
 ### Muss man Urheberrechte beachten, wenn man mit KI-Bilder erstellt?
 
 KI-Systeme wie “ChatGPT” oder “Midjourney” wurden mit Millionen von Texten und Bildern „gefüttert“ und so trainiert. Basierend darauf werden Texte und Bilder erstellt, denn die KI-Systeme ahmen das Gelernte nach. Es gibt Kreative, die das nicht in Ordnung finden - und auf Entschädigung pochen. Es sind Diskussionen entstanden, wie solche Entschädigungen in der Praxis aussehen könnten, etwa über Verwertungsgesellschaften. Wir stehen hier aber erst ganz am Anfang der Debatte.
 
 Eine andere Frage ist, wer die Rechte an den durch KI-Systemen erzeugten Inhalten hat. Laut Urheberrecht in Deutschland können nur natürliche Personen (Menschen) ein Urheberrecht in Anspruch nehmen. Demnach kann eine künstliche Intelligenz niemals Urheber der erstellten Inhalte sein und keine urheberrechtlich geschützten Werke erschaffen. Die Nutzungsrechte hingegen sind verhandelbar. Deshalb ist es wichtig, vor der Verwendung von durch KI erzeugten Inhalten die Nutzungsrechte zu prüfen. Bei “Midjourney” beispielsweise haben nur Nutzer mit bezahltem Account das Privileg, die erzeugten Inhalte auch kommerziell verwerten zu dürfen.
+
+<Link href="https://www1.wdr.de/nachrichten/schumacher-ki-fake-interview-100.html" title="Nach Fake-Schumacher-Interview: Chefredakteurin muss gehen"/>
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
