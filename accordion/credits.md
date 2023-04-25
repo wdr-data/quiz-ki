@@ -20,6 +20,8 @@
 
 - 9. Alle echten Fotos: picture alliance / Westend61
 
+- Alle mit KI erstellten Bilder: Midjourney / Schieb
+
 ### Credits
 
 - **Redaktion:** Johannes Kolb
