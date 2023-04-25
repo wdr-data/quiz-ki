@@ -164,7 +164,7 @@ Lust bekommen? Es gibt reichlich Möglichkeiten, selbst ein wenig mit KI zu expe
 
 ### Muss man Urheberrechte beachten, wenn man mit KI-Bilder erstellt?
 
-KI-Systeme wie “ChatGPT” oder “Midjourney” wurden mit Millionen von Texten und Bildern „gefüttert“ und so trainiert. Basierend darauf werden Texte und Bilder erstellt, denn die KI-Systeme ahmen das Gelernte nach. Es gibt Kreative, die das nicht in Ordnung finden – und auf Entschädigung pochen. Es sind Diskussionen entstanden, wie solche Entschädigungen in der Praxis aussehen könnten, etwa über Verwertungsgesellschaften. Wir stehen hier aber erst ganz am Anfang der Debatte.
+KI-Systeme wie “ChatGPT” oder “Midjourney” wurden mit Millionen von Texten und Bildern „gefüttert“ und so trainiert. Basierend darauf werden Texte und Bilder erstellt, denn die KI-Systeme ahmen das Gelernte nach. Es gibt Kreative, die das nicht in Ordnung finden - und auf Entschädigung pochen. Es sind Diskussionen entstanden, wie solche Entschädigungen in der Praxis aussehen könnten, etwa über Verwertungsgesellschaften. Wir stehen hier aber erst ganz am Anfang der Debatte.
 
 Eine andere Frage ist, wer die Rechte an den durch KI-Systemen erzeugten Inhalten hat. Laut Urheberrecht in Deutschland können nur natürliche Personen (Menschen) ein Urheberrecht in Anspruch nehmen. Demnach kann eine künstliche Intelligenz niemals Urheber der erstellten Inhalte sein und keine urheberrechtlich geschützten Werke erschaffen. Die Nutzungsrechte hingegen sind verhandelbar. Deshalb ist es wichtig, vor der Verwendung von durch KI erzeugten Inhalten die Nutzungsrechte zu prüfen. Bei “Midjourney” beispielsweise haben nur Nutzer mit bezahltem Account das Privileg, die erzeugten Inhalte auch kommerziell verwerten zu dürfen.
 
