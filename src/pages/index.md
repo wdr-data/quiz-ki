@@ -33,8 +33,8 @@ Also legen wir am besten gleich los! Schaffen Sie es, alle künstlichen Bilder z
 <Quiz>
 <QuizImage src="Kollage Van Gogh.png.jpg" alt="Eine Kollage von Van Gogh Bildern."/>
 <Question>**Welches Bild hat die KI erstellt?**</Question>
-<Answer correct>a)</Answer>
-<Answer>b)</Answer>
+<Answer>a)</Answer>
+<Answer correct>b)</Answer>
 <Result>
 Das Bild links heißt „Fischerboote bei Saintes Maries de la Mer“ und wurde 1888 vom Meister Vincent van Gogh persönlich gepinselt. Das rechte Bild wurde dagegen mit „Bing Image Creator“ (verwendet Dall-E) erstellt. Es ist kein Problem, den einschlägigen KI-Systemen eine Stilrichtung wie z.B. „Van Gogh“ oder „Monet“ vorzugeben.
 </Result>
