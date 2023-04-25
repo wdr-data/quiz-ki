@@ -36,7 +36,7 @@ Also legen wir am besten gleich los! Schaffen Sie es, alle künstlichen Bilder z
 <Answer>A</Answer>
 <Answer correct>B</Answer>
 <Result>
-Das Bild links heißt „Fischerboote bei Saintes Maries de la Mer“ und wurde 1888 vom Meister Vincent van Gogh persönlich gepinselt. Das rechte Bild wurde dagegen mit „Bing Image Creator“ (verwendet Dall-E) erstellt. Es ist kein Problem, den einschlägigen KI-Systemen eine Stilrichtung wie z.B. „Van Gogh“ oder „Monet“ vorzugeben.
+Das Bild links heißt „Fischerboote bei Saintes Maries de la Mer“ und wurde 1888 vom Meister Vincent van Gogh persönlich gepinselt. Das rechte Bild wurde dagegen mit „Bing Image Creator“ (verwendet Dall-E, die Bilderstellungs-KI von OpenAI, dem Unternehmen hinter ChatGPT) erstellt. Es ist kein Problem, den einschlägigen KI-Systemen eine Stilrichtung wie z.B. „Van Gogh“ oder „Monet“ vorzugeben.
 </Result>
 </Quiz>
 
