@@ -193,6 +193,7 @@ export const Score = ({ images, texts }) => {
 
   const currentImage = useMemo(
     () =>
+      images &&
       Object.entries(images).reduce(
         (acc, [requiredScore, url]) => {
           requiredScore = parseInt(requiredScore);
@@ -254,10 +255,12 @@ export const Score = ({ images, texts }) => {
       >
         Ergebnis anzeigen
       </button>
-      <div
-        className={classNames(styles.image, styles.hidden)}
-        style={{ backgroundImage: `url('${currentImage.url}')` }}
-      ></div>
+      {currentImage && (
+        <div
+          className={classNames(styles.image, styles.hidden)}
+          style={{ backgroundImage: `url('${currentImage.url}')` }}
+        ></div>
+      )}
       <div
         className={classNames(styles.scoreBoard, styles.hidden)}
         aria-hidden={hidden ? "true" : "false"}
@@ -273,11 +276,13 @@ export const Score = ({ images, texts }) => {
           <span className={styles.scorePost}>{currentText.text}</span>
         </div>
       </div>
-      <div className={styles.scoreImagePrefetch}>
-        {Object.entries(images).map(([requiredScore, url]) => (
-          <img key={url} src={url} alt="" />
-        ))}
-      </div>
+      {images && (
+        <div className={styles.scoreImagePrefetch}>
+          {Object.entries(images).map(([requiredScore, url]) => (
+            <img key={url} src={url} alt="" />
+          ))}
+        </div>
+      )}
     </div>
   );
 };
