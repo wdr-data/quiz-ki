@@ -151,10 +151,10 @@ Die Auswahl ist riesig: Anbieter wie Jasper Art, Runway, Neuroflash und viele an
 
 Lust bekommen? Es gibt reichlich Möglichkeiten, selbst ein wenig mit KI zu experimentieren - auch kostenlos.
 
-- [Midjourney](https://docs.midjourney.com/docs/quick-start): Liefert derzeit die besten Ergebnisse, ist für Anfänger allerdings möglicherweise etwas kompliziert, da man es über die Chat-App Discord bedienen muss. Die neueste Version 5 ist aktuell nur für zahlende Abonnenten zu haben.
-- [Bing Image Creator](https://www.bing.com/create): Gratis, leicht zu nutzen, unterstützt allerdings bislang nur englische Prompt-Eingaben, basiert auf DALL-E von OpenAI.
-- [DALL-E](https://labs.openai.com/): Der „große Bruder“ von OpenAI direkt bietet mehr Möglichkeiten als Bing Image Creator, ist allerdings in der Gratis-Version oft überlastet.
-- [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release): kostenlose Open-Source-Alternative zu DALL-E und Midjourney. Es gibt auch Apps/Anwendungen wie DiffusionBee, die direkt auf dem eigenen Desktop-PC laufen. Lässt sich [hier](https://huggingface.co/spaces/stabilityai/stable-diffusion) oder [hier](https://stablediffusionweb.com/#demo) ausprobieren. Versionen mit kostenpflichtigem Account und deutlich mehr Funktionen gibt es [hier](https://beta.dreamstudio.ai/generate) und [hier](https://playgroundai.com/).
+- <a href="https://docs.midjourney.com/docs/quick-start" target="_blank">Midjourney</a>: Liefert derzeit die besten Ergebnisse, ist für Anfänger allerdings möglicherweise etwas kompliziert, da man es über die Chat-App Discord bedienen muss. Die neueste Version 5 ist aktuell nur für zahlende Abonnenten zu haben.
+- <a href="https://www.bing.com/create" target="_blank">Bing Image Creator</a>: Gratis, leicht zu nutzen, unterstützt allerdings bislang nur englische Prompt-Eingaben, basiert auf DALL-E von OpenAI.
+- <a href="https://labs.openai.com/" target="_blank">DALL-E</a>: Der „große Bruder“ von OpenAI direkt bietet mehr Möglichkeiten als Bing Image Creator, ist allerdings in der Gratis-Version oft überlastet.
+- <a href="https://stability.ai/blog/stable-diffusion-public-release" target="_blank">Stable Diffusion</a>: kostenlose Open-Source-Alternative zu DALL-E und Midjourney. Es gibt auch Apps/Anwendungen wie DiffusionBee, die direkt auf dem eigenen Desktop-PC laufen. Lässt sich <a href="https://huggingface.co/spaces/stabilityai/stable-diffusion" target="_blank">hier</a> oder <a href="https://stablediffusionweb.com/#demo" target="_blank">hier</a> ausprobieren. Versionen mit kostenpflichtigem Account und deutlich mehr Funktionen gibt es <a href="https://beta.dreamstudio.ai/generate" target="_blank">hier</a> und <a href="https://playgroundai.com/" target="_blank">hier</a>.
 
 ### „Prompts“ gut schreiben: So sagen Sie der KI exakt, was Sie von ihr wollen
 
