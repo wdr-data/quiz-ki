@@ -135,6 +135,8 @@ texts={{
 }}
 />
 
+<Link href="https://data.wdr.de/ddj/ki-jobs-arbeit-zukunft/" title="So stark ist Ihr Job durch KI bedroht" />
+
 ### Mit diesen Diensten erstellen Sie selbst täuschend echte KI-Bilder
 
 Wer ein wenig experimentieren und selbst mithilfe von KI-Systemen Bilder erzeugen möchte, hat heute die Qual der Wahl. Da wären nicht nur die nativen Angebote wie Dall-E, Midjourney oder StableDiffusion, die eigentlichen KI-Systeme, auf denen viele zahlreiche andere Dienste aufbauen. Sondern eben auch die Drittanbieter: Online-Dienste, die (auch) die Möglichkeit anbieten, per Texteingaben Bilder zu generieren.
