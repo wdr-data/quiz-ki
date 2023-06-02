@@ -166,6 +166,14 @@ KI-Systeme wie “ChatGPT” oder “Midjourney” wurden mit Millionen von Text
 
 Eine andere Frage ist, wer die Rechte an den durch KI-Systemen erzeugten Inhalten hat. Laut Urheberrecht in Deutschland können nur natürliche Personen (Menschen) ein Urheberrecht in Anspruch nehmen. Demnach kann eine künstliche Intelligenz niemals Urheber der erstellten Inhalte sein und keine urheberrechtlich geschützten Werke erschaffen. Die Nutzungsrechte hingegen sind verhandelbar. Deshalb ist es wichtig, vor der Verwendung von durch KI erzeugten Inhalten die Nutzungsrechte zu prüfen. Bei “Midjourney” beispielsweise haben nur Nutzer mit bezahltem Account das Privileg, die erzeugten Inhalte auch kommerziell verwerten zu dürfen.
 
-<Link href="https://www1.wdr.de/nachrichten/schumacher-ki-fake-interview-100.html" title="Nach Fake-Schumacher-Interview: Chefredakteurin muss gehen"/>
+#### Mehr zum Thema beim WDR
+
+<LinkList links={[
+    { href: "https://data.wdr.de/ddj/quiz-wie-gut-erkennen-sie-deepfakes/", title: "Deepfake-Quiz: Erkennen Sie alle KI-Videos und -Audios?" },
+    { href: "https://www1.wdr.de/nachrichten/deepfakes-100.html", title: "Deepfakes: Wir können unseren Augen und Ohren nicht mehr trauen" },
+    { href: "https://data.wdr.de/ddj/ki-jobs-arbeit-zukunft/", title: "So stark ist Ihr Job durch KI bedroht" },
+    { href: "https://www1.wdr.de/nachrichten/schumacher-ki-fake-interview-100.html", title: "Nach Fake-Schumacher-Interview: Chefredakteurin muss gehen" },
+]} />
+
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
